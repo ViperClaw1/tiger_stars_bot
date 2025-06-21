@@ -8,7 +8,7 @@ from telegram.ext import (
     CallbackQueryHandler
 )
 
-TOKEN = '7617600052:AAFm4LqGNv64lsvlknfKqFaumyO1U_9D1H8'
+TOKEN = 'MY_TOKEN'
 
 RATE = 1.69
 
